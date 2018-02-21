@@ -9,7 +9,6 @@
         android:layout_width="59dip"
         android:layout_height="59dip"
         android:layout_margin="6dip"
-        android:src="@drawable/list_icon"
         android:id="@+id/imgJeu"
         />
 
